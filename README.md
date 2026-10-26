@@ -105,4 +105,4 @@ Developed by Mahmoud Khdre (UI/UX & Product Designer) from the Figma-to-live-sit
 
 ## License
 
-To be decided by the author before publication.
+[MIT](LICENSE) © 2026 Mahmoud Khdre
