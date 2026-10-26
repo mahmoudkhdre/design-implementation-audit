@@ -1,5 +1,7 @@
 # Claude UX Audit Skill: Design-to-Implementation Audit
 
+[العربية](README.ar.md)
+
 A Claude Skill that guides a structured audit of a live website against its approved Figma designs. It covers desktop and mobile, with an extra module for bilingual Arabic/English (RTL/LTR) sites. Every finding is logged with evidence, a severity and an owner, and the same finding IDs are re-checked after fixes.
 
 The skill came out of a real project, the bilingual corporate website for Al Wafaa Tires. The first audit there, of the Arabic site, was done by hand. Its repeatable steps were then written down as this skill, which was used for the audit of the live English site.
@@ -102,6 +104,10 @@ The defaults (viewports, grid, severity thresholds, phone formats) are starting 
 ## Origin
 
 Developed by Mahmoud Khdre (UI/UX & Product Designer) from the Figma-to-live-site audit process on the Al Wafaa Tires corporate website. Client-specific data, audit evidence and findings are not included in this repository.
+
+## Contributing
+
+Contributions and additions to the skill are welcome. Open an issue to suggest an improvement or report a problem, or send a pull request with your changes.
 
 ## License
 
